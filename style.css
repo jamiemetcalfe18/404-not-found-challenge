@@ -1,0 +1,45 @@
+body {
+  font-family: 'Space Mono';
+}
+
+img {
+ max-width: 500 px;
+ max-height: 500px;
+}
+
+button {
+  font-family: 'Space Mono';
+  background-color: #333333;
+  color: white;
+  border: 0px;
+}
+
+h1 {
+  color: #333333;
+  font-size: 64px;
+}
+
+h2 {
+  color: #333333;
+}
+
+p {
+  color:#333333;
+  font-size: 24px;
+}
+
+.box {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.text {
+  justify-content: left;
+}
+
+footer {
+  font-family: 'Montserrat';
+  text-align: center;
+  font-size: 14px;
+  color: #BDBDBD;
+}
